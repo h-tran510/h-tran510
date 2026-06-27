@@ -4,7 +4,7 @@ i'm a current high school student and researcher living in los angeles, CA
 
 there's nothing here for now! i'm currently working on a research project that i'll be releasing soon
 
-! [this is a cat] (2c9e90082c7c598d6fa45ab9a027d844.jpg)
+<img width="1079" height="360" alt="2c9e90082c7c598d6fa45ab9a027d844" src="https://github.com/user-attachments/assets/4a9f89ca-89fa-45f7-8d66-96f5ada8ce53" />
 
 <!--
 **h-tran510/h-tran510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
