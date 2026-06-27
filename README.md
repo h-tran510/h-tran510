@@ -1,4 +1,8 @@
-## Hi there 👋
+## hi, i'm helen! 
+
+i'm a current high school student and researcher living in los angeles, CA
+
+there's nothing here for now! i'm currently working on a research project that i'll be releasing soon
 
 <!--
 **h-tran510/h-tran510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
